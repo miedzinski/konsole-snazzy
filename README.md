@@ -1,6 +1,7 @@
 # konsole-snazzy
 
 ![](screenshot.png)
+![](screenshot2.png)
 
 ## Install
 

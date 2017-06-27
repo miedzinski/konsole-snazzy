@@ -1,5 +1,7 @@
 # konsole-snazzy
 
+> Elegant [Konsole](https://konsole.kde.org/) theme with bright colors
+
 ![](screenshot.png)
 ![](screenshot2.png)
 
